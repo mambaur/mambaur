@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m fresh graduate
+- 🔭 I’m fresh graduate from state polytechnic jember
 - 🌱 Majoring in informatics engineering
 - 🤔 I’m looking for help with youtube, stackoverflow, etc.
 - 💬 Ask me about anything
